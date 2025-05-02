@@ -1,0 +1,49 @@
+/* Global */
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 1rem;
+  color: #333;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 2rem 0;
+}
+header h1 {
+  margin-bottom: 0.2rem;
+}
+header nav a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Sections */
+section {
+  margin: 2rem 0;
+}
+section h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+/* Cards */
+.card {
+  background: #f9f9f9;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin: 3rem 0 1rem;
+  font-size: 0.9rem;
+  color: #666;
+}
